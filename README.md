@@ -1,15 +1,15 @@
-# Bash_profile
+# Cheatsheets de ambiente pessoal
 
-## Dependencies
-- brew 
-- bash_completion
-- git-aware-prompt
-- RVM
+## Basico
+* Configurar .bashrc
+* Configurar git
+* Instalar dependências
+* Configurar editor
 
-## Getting Start
-- Download bash_profile
-- Clone git-aware-prompt to ~/.bash/
-- Install bash_completion
-- Install rvm
-- Restart terminal
-
+## Dependências
+* [asdf](https://asdf-vm.com/guide/getting-started.html)
+* Erlang (Via asdf)
+* Elixir (Via asdf)
+* Postgresql (Via asdf)
+* vim
+* [git-aware-prompt](https://github.com/jimeh/git-aware-prompt)
